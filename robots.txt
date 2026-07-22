@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-kewyl7.indocuanwin.online/sitemap.xml
